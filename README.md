@@ -36,6 +36,6 @@
 <body>
   <h1>Stealth Path Survival</h1>
   <p>Forged by fire. Honed by instinct. This is your path. Start your journey today with the Starter Kit below.</p>
-  <a href="https://your-gumroad-link.com" target="_blank">Download Starter Kit</a>
+  <a href="https://stealthpath.gumroad.com/l/afeai" target="_blank">Download Starter Kit</a>
 </body>
 </html>
